@@ -1,3 +1,4 @@
+package TimeCalc;
 // This doesn't work yet, but I'm trying to make a class that can add and subtract time in hours, minutes, and seconds.
 public class TimeCalc
 {

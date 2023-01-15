@@ -1,3 +1,4 @@
+package TimeCalc;
 import java.util.Scanner;
 public class Main
 {
@@ -13,5 +14,6 @@ public class Main
         double t6 = scan.nextDouble();
         System.out.println();
         System.out.println(TimeCalc.addTime(t1,t2,t3,t4,t5,t6));
+        scan.close();
     }
 }
